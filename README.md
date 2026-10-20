@@ -1,28 +1,31 @@
 <div align="center">
 
-# DSA Journey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DSA%20Journey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ronak%20Agarwal%20%C2%B7%20Striver's%20A2Z%20%C2%B7%20LeetCode&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-### One problem set. Every single day. No zero days.
+<a href="https://leetcode.com/u/RonakAgarwal18/"><img src="https://img.shields.io/badge/LeetCode-RonakAgarwal18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://takeuforward.org/profile/Ronak_Agarwal"><img src="https://img.shields.io/badge/TakeUForward-ronak__agarwal-E63946?style=for-the-badge"/></a>
+<a href="https://codeforces.com/profile/ronak2agarwal2"><img src="https://img.shields.io/badge/Codeforces-ronak2agarwal2-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ronakagarwal18/"><img src="https://img.shields.io/badge/LinkedIn-ronakagarwal18-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
-**Day 1 — 21 Oct 2026** · until the internship, and then the job, are in hand.
+<br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-RonakAgarwal18-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/RonakAgarwal18/)
-[![TakeUForward](https://img.shields.io/badge/TakeUForward-%40ronak__agarwal-E63946?style=flat)](https://takeuforward.org/profile/Ronak_Agarwal)
-[![Codeforces](https://img.shields.io/badge/Codeforces-ronak2agarwal2-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ronak2agarwal2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronakagarwal18-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronakagarwal18/)
+> *"Consistency beats intensity. Show up every day, and the results take care of themselves."*
 
 </div>
 
 ---
 
-## The mission
+## About this repository
 
-Starting DSA from zero in my third year of Electrical Engineering at NIT Silchar — and committing to it **every day for a year**. This repo is the public record: if a day has no commit here, the day didn't happen.
+This repository documents my journey of learning **Data Structures & Algorithms** — worked through systematically with **Striver's A2Z DSA course** (TakeUForward) and daily practice on **LeetCode**.
 
-- **Syllabus:** Striver's A2Z DSA course (TakeUForward Plus)
-- **Practice:** LeetCode daily + topic problems, synced here automatically by LeetHub v2
-- **Sprint target:** A2Z complete by **31 Dec 2026** (declared buffer: Jan 2027)
-- **End goal:** internship → job
+Every solution here is one I solved myself. The point isn't just the code — it's the approach behind it: what the brute force looks like, how the optimal solution is derived, and what the time and space complexity are.
+
+**Focus areas:**
+- Building strong DSA fundamentals, topic by topic
+- Recognising problem patterns instead of memorising solutions
+- Writing clean, optimised code with complexity analysis
+- Preparing for software engineering internships and placements
 
 ## Live stats
 
@@ -34,34 +37,17 @@ Starting DSA from zero in my third year of Electrical Engineering at NIT Silchar
 
 </div>
 
-## The sprint — Oct 21 to Dec 31, 2026
-
-| Window | Dates | Mode |
-|---|---|---|
-| Window 1 | Oct 21 – Nov 19 | Full grind around minor tests & practicals |
-| Exam block | Nov 20 – Dec 10 | Streak-only (end-semester exams) |
-| NEC trip | ~Dec 11 – 14 | Streak-only (IIT Bombay) |
-| Window 2 | Dec 15 – 31 | Full grind, college off |
-
-## Day types
-
-| Type | Time | What happens |
-|---|---|---|
-| **FULL** | 7–9 hrs | New topics, 12–16 problems, notes + revision flags |
-| **DEFICIENT** | 45–60 min | Test/practical days — LeetCode Daily + 1 topic problem, no new theory |
-| **STREAK-ONLY** | 15–20 min | Exams/travel — the Daily, solved **morning-first**, before anything else |
-
-## A2Z progress
+## Syllabus — Striver's A2Z
 
 - [ ] **Step 1** — Learn the Basics
 - [ ] **Step 2** — Sorting Techniques
-- [ ] **Step 3** — Arrays [Easy → Medium → Hard]
-- [ ] **Step 4** — Binary Search [1D, 2D, Search Space]
-- [ ] **Step 5** — Strings [Basic & Medium]
-- [ ] **Step 6** — Linked List [Single, Double, Medium, Hard]
-- [ ] **Step 7** — Recursion [Pattern-wise]
+- [ ] **Step 3** — Arrays
+- [ ] **Step 4** — Binary Search
+- [ ] **Step 5** — Strings
+- [ ] **Step 6** — Linked List
+- [ ] **Step 7** — Recursion
 - [ ] **Step 8** — Bit Manipulation
-- [ ] **Step 9** — Stack & Queues [incl. Monotonic Stack]
+- [ ] **Step 9** — Stack & Queues
 - [ ] **Step 10** — Sliding Window & Two Pointer
 - [ ] **Step 11** — Heaps
 - [ ] **Step 12** — Greedy Algorithms
@@ -72,38 +58,38 @@ Starting DSA from zero in my third year of Electrical Engineering at NIT Silchar
 - [ ] **Step 17** — Tries
 - [ ] **Step 18** — Advanced String Algorithms
 
-## How this repo stays green
+## Repository structure
 
-1. Solve on **LeetCode** → LeetHub v2 pushes the accepted solution here automatically. That push *is* the day's commit — it works even on exam and travel days.
-2. **TUF-only** problems (solved on the TakeUForward platform) go into [`TUF-A2Z/`](TUF-A2Z/) by step, pushed at the day's close-out.
-3. Every commit is a real problem or real revision notes. **No empty commits, no fake streaks.**
-4. Daily log lives in [`PROGRESS.md`](PROGRESS.md).
+```text
+DSA-Journey/
+│
+├── <problem folders>     ← LeetCode solutions, auto-synced by LeetHub v2
+│                           (each folder: the problem README + my solution)
+│
+├── TUF-A2Z/              ← Problems solved on the TakeUForward platform,
+│                           organised by A2Z step
+│
+├── PROGRESS.md           ← Progress log
+└── README.md
+```
 
-## Milestones
+## How it stays updated
 
-| Milestone | Date |
-|---|---|
-| Day 1 — started at 0 everywhere | 21 Oct 2026 |
-| Window 1 complete | — |
-| Exam block survived on streak-only days | — |
-| A2Z complete | — |
-| LeetCode 365-day badge | — |
-| Internship | — |
-| Job | — |
+- Solutions solved on **LeetCode** are pushed here automatically by the **LeetHub v2** extension on every accepted submission.
+- Problems solved on the **TakeUForward** platform are added under `TUF-A2Z/`, organised by step.
+- Progress is tracked in [`PROGRESS.md`](PROGRESS.md) and in the syllabus checklist above.
 
-## The rules I hold myself to
+## My approach to every problem
 
-- Attempt every problem myself for 25–30 minutes before any hint.
-- Hint before solution. Never copy-paste a solution on a streak day.
-- A missed morning means the problem gets solved before bed — the streak does not negotiate.
-- Contests (Codeforces + LeetCode) and revision phase begin Jan 2027, after the A2Z sprint.
+1. Understand the problem and solve the brute force first.
+2. Look for the pattern — most problems are a known pattern in disguise.
+3. Optimise, then note the time and space complexity.
+4. Revisit flagged problems for revision instead of only moving forward.
 
 ---
 
 <div align="center">
 
-*Day N posts on X · weekly recaps on LinkedIn · doubts on the TUF Discord*
-
-**The streak is the strategy.**
+*Started 21 Oct 2026 · One day at a time.*
 
 </div>
