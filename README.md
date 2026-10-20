@@ -6,6 +6,7 @@
 <a href="https://takeuforward.org/profile/Ronak_Agarwal"><img src="https://img.shields.io/badge/TakeUForward-ronak__agarwal-E63946?style=for-the-badge"/></a>
 <a href="https://codeforces.com/profile/ronak2agarwal2"><img src="https://img.shields.io/badge/Codeforces-ronak2agarwal2-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ronakagarwal18/"><img src="https://img.shields.io/badge/LinkedIn-ronakagarwal18-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 <br/>
 
@@ -20,6 +21,8 @@
 This repository documents my journey of learning **Data Structures & Algorithms** — worked through systematically with **Striver's A2Z DSA course** (TakeUForward) and daily practice on **LeetCode**.
 
 Every solution here is one I solved myself. The point isn't just the code — it's the approach behind it: what the brute force looks like, how the optimal solution is derived, and what the time and space complexity are.
+
+**Language: Python** — for DSA, interviews, and machine learning alike.
 
 **Focus areas:**
 - Building strong DSA fundamentals, topic by topic
