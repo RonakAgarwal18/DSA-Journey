@@ -96,3 +96,11 @@ DSA-Journey/
 *Started 21 Oct 2026 · One day at a time.*
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
+<!---LeetCode Topics End-->
