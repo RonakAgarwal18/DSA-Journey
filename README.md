@@ -103,4 +103,8 @@ DSA-Journey/
 |  |
 | ------- |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Array
+|  |
+| ------- |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
