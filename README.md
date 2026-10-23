@@ -106,5 +106,10 @@ DSA-Journey/
 ## Array
 |  |
 | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
