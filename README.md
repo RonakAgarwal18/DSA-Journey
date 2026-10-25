@@ -107,6 +107,7 @@ DSA-Journey/
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
@@ -117,4 +118,20 @@ DSA-Journey/
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2409-count-days-spent-together) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
