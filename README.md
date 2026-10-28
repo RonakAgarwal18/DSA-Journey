@@ -109,11 +109,13 @@ DSA-Journey/
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -134,4 +136,9 @@ DSA-Journey/
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
