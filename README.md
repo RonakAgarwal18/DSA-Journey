@@ -109,6 +109,7 @@ DSA-Journey/
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3665-twisted-mirror-path-count) |
@@ -124,6 +125,7 @@ DSA-Journey/
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2409-count-days-spent-together) |
 ## Depth-First Search
 |  |
