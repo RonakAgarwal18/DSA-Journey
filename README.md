@@ -113,6 +113,7 @@ DSA-Journey/
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -172,6 +173,7 @@ DSA-Journey/
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
@@ -193,4 +195,24 @@ DSA-Journey/
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
