@@ -102,6 +102,7 @@ DSA-Journey/
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -222,4 +223,8 @@ DSA-Journey/
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
