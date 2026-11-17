@@ -104,6 +104,7 @@ DSA-Journey/
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -160,6 +161,7 @@ DSA-Journey/
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -227,4 +229,8 @@ DSA-Journey/
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
