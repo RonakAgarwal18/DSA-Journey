@@ -117,6 +117,7 @@ DSA-Journey/
 | [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -164,6 +165,7 @@ DSA-Journey/
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -200,6 +202,7 @@ DSA-Journey/
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
