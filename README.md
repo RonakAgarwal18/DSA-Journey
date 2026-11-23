@@ -117,6 +117,7 @@ DSA-Journey/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -140,6 +141,7 @@ DSA-Journey/
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -236,6 +238,7 @@ DSA-Journey/
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
@@ -249,4 +252,12 @@ DSA-Journey/
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
