@@ -129,6 +129,7 @@ DSA-Journey/
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
@@ -252,6 +253,7 @@ DSA-Journey/
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -260,4 +262,20 @@ DSA-Journey/
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/1352-product-of-the-last-k-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
