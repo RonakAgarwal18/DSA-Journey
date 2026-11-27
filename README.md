@@ -131,6 +131,7 @@ DSA-Journey/
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ DSA-Journey/
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +219,7 @@ DSA-Journey/
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
