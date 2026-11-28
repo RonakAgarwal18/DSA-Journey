@@ -132,6 +132,7 @@ DSA-Journey/
 | [3934-smallest-unique-subarray](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@ DSA-Journey/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -214,12 +216,14 @@ DSA-Journey/
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RonakAgarwal18/DSA-Journey/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
